@@ -14,7 +14,7 @@ var AppComponent = (function () {
     }
     AppComponent = __decorate([
         core_1.Component({
-            selector: 'loanio-app',
+            selector: 'my-app',
             template: '<h1>Angular 2 App</h1>'
         }), 
         __metadata('design:paramtypes', [])
